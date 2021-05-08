@@ -71,7 +71,7 @@ Week 9, 10, 11, 12: Numpy, Pandas, Data Visualization Libraries
 	- Matplotlib: codebasics matplotlib playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl
 	
 * Kaggle exploratory data analysis
-	- Notebooks: https://www.kaggle.com/notebooks
+	- Notebooks: https://www.kaggle.com/code
 	- Datasets: https://www.kaggle.com/datasets
 
 Week 13, 14: Math, Statistics For Machine Learning  
