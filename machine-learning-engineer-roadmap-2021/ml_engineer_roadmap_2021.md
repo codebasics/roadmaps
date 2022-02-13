@@ -84,8 +84,8 @@ Week 15, 16, 17, 18: Machine Learning
 =====================================
 
 * Machine learning
-	- codebasics ml playlist (first 17): https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
-	- data science regression project: same playlist as above. Tutorial 18 to 25
+	- codebasics ml playlist (first 22): https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+	- data science regression project: same playlist as above. Tutorial 23 to 30
 	- HINDI codebasics ml playlist (first 14): https://www.youtube.com/playlist?list=PLPbgcxheSpE0aBsefANDYe2X_-tyJbBMr
 	 
 Week 19, 20, 21, 22: Deep Learning
